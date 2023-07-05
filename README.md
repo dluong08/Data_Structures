@@ -1,1 +1,1 @@
-# Data_Structures Labs and Projects
+# Data_Structures Labs
